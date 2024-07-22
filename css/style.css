@@ -1,0 +1,125 @@
+body{
+    background-image: url(../img/tree.jpg);
+    background-size: cover;
+}
+h3{
+    color:#000000;
+    font-weight: 600;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    vertical-align: middle;
+}
+.photo{
+    background-image: url(../img/our.jpg);
+    background-size: contain;
+    width: 240px;
+    height: 180px;
+    position: relative;
+    top: 60px;
+    left: 70px;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 10px;
+}
+.message{
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 5px 5px 15px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+    background-color: #5872c6;
+    transition: 0.5s;
+    position: absolute;
+    top: 310px;
+    left: 50px;
+}
+.message:active{
+    background-color: #717fac;
+}
+.morning{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 5px 8px 15px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+    background-color: #be5d20;
+    transition: 0.5s;
+    position: absolute;
+    top: 310px;
+    right: 50px;
+}
+.morning:active{
+    background-color: #b97b55;
+}
+.time{
+    display: inline-block;
+    text-decoration: none;
+    padding: 18px 2px 2px 18px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+    background-color: #a34579;
+    transition: 0.5s;
+    position: absolute;
+    top: 460px;
+    left: 50px;
+}
+.time:active{
+    background-color: #a36888;
+}
+.begin{
+    display: inline-block;
+    text-decoration: none;
+    padding: 18px 2px 2px 18px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+    background-color: #843b85;
+    transition: 0.5s;
+    position: absolute;
+    top: 460px;
+    right: 50px;
+}
+.begin:active{
+    background-color: #7c517d;
+}
+.walk{
+    display: inline-block;
+    text-decoration: none;
+    padding: 25px 0px 0px 20px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 85px;
+    width: 90px;
+    background-color: #4db8c4;
+    transition: 0.5s;
+    position: absolute;
+    top: 600px;
+    left: 50px;
+}
+.walk:active{
+    background-color: #6fbcc4;
+}
+.our{
+    display: inline-block;
+    text-decoration: none;
+    padding: 25px 5px 0px 15px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 85px;
+    width: 90px;
+    background-color: #cde04f;
+    transition: 0.5s;
+    position: absolute;
+    top: 600px;
+    right: 50px;
+}
+.our:active{
+    background-color: #d0de76;
+}

@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+.back{
+    display: inline-block;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-image: url(../img/back.jpg);
+    background-size: cover;
+    border-radius: 100px;
+    height: 50px;
+    width: 50px;
+}
+.Morning{
+    display: inline-block;
+    position: absolute;
+    background-color: rgb(224, 116, 21);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    top: 100px;
+    left: 10px;
+}
+.m1{
+    display: inline-block;
+    position: relative;
+    top:20px;
+    left: 10px;
+    width: 170px;
+}
+.m2{
+    display: inline-block;
+    position: absolute;
+    bottom:20px;
+    right: 10px;
+    width: 150px;
+}
+.Night{
+    display: inline-block;
+    position: absolute;
+    background-color: rgb(203, 65, 235);
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    top: 320px;
+    right: 10px;
+}
+.n1{
+    display: inline-block;
+    position: relative;
+    top:20px;
+    left: 10px;
+    width: 210px;
+}
+.n2{
+    display: inline-block;
+    position: absolute;
+    bottom:20px;
+    right: 10px;
+    width: 200px;
+}

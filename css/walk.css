@@ -1,0 +1,238 @@
+body{
+    background-color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    margin: 0px;
+    color:black;
+}
+.back{
+    display: inline-block;
+    position: fixed;
+    left: 3px;
+    bottom: 15px;
+    background-image: url(../img/back.jpg);
+    background-size: cover;
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+}
+.up{
+    display: inline-block;
+    position: fixed;
+    left: 3px;
+    bottom: 65px;
+    background-image: url(../img/up.jpg);
+    background-size: cover;
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+}
+nav{
+    display: inline-block;
+    width: 150px;
+    height: 6478px;
+    background-color: rgb(23, 23, 107);
+    border-radius: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.n{
+    width: 80px;
+    margin: 10px;
+    background-color: rgb(203, 182, 150);
+    font-size: medium;
+    padding: 10px 10px 10px 40px;
+    height: 20px;
+    border-radius: 30px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+.n2{
+    width: 105px;
+    margin: 10px;
+    background-color: rgb(203, 182, 150);
+    font-size: medium;
+    padding: 10px 10px 10px 15px;
+    height: 20px;
+    border-radius: 30px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+.n3{
+    width: 125px;
+    margin: 10px;
+    background-color: rgb(203, 182, 150);
+    font-size: medium;
+    padding: 10px 0px 10px 5px;
+    height: 20px;
+    border-radius: 30px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+.n4{
+    width: 152px;
+    background-color: rgb(0, 0, 0);
+    font-size: medium;
+    height: 10px;
+    display: inline-block;
+}
+main{
+    background-color: rgb(74, 165, 239);
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+    right: 0px;
+    width: 215px;
+    padding: 10px;
+}
+.photo-1{
+    background-image: url(../img/17.12.23.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 320px;
+    border-radius: 10px;
+}
+.photo-2{
+    background-image: url(../img/29.12.23.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-3{
+    background-image: url(../img/12.23-..01.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 170px;
+    border-radius: 10px;
+}
+.photo-4{
+    background-image: url(../img/05.01.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 200px;
+    border-radius: 10px;
+}
+.photo-5{
+    background-image: url(../img/24.01.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-6{
+    background-image: url(../img/25.02.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 250px;
+    border-radius: 10px;
+}
+.photo-7{
+    background-image: url(../img/03.02.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-8{
+    background-image: url(../img/03.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-9{
+    background-image: url(../img/203.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-10{
+    background-image: url(../img/31.03.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 200px;
+    border-radius: 10px;
+}
+.photo-11{
+    background-image: url(../img/06.04.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-12{
+    background-image: url(../img/17.04.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 250px;
+    border-radius: 10px;
+}
+.photo-13{
+    background-image: url(../img/08.05.24-11.05.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 200px;
+    border-radius: 10px;
+}
+.photo-14{
+    background-image: url(../img/13.05.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 180px;
+    border-radius: 10px;
+}
+.photo-15{
+    background-image: url(../img/18.05.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-16{
+    background-image: url(../img/14.06.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-17{
+    background-image: url(../img/25.06.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-18{
+    background-image: url(../img/29.06.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 250px;
+    border-radius: 10px;
+}
+.photo-19{
+    background-image: url(../img/01.07.24-05.07.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 150px;
+    border-radius: 10px;
+}
+.photo-20{
+    background-image: url(../img/20.07.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 190px;
+    border-radius: 10px;
+}
+.photo-21{
+    background-image: url(../img/24.07.24.jpg);
+    background-size: cover;
+    width: 215px;
+    height: 250px;
+    border-radius: 10px;
+}
